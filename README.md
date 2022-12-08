@@ -1,17 +1,5 @@
 # Crewmeister Test Assignment - Java Backend Developer
 
-## Intro
-Thank you for taking the time to complete this challenge as part of your application at Crewmeister!
-We are taking development skills very serious and invest a lot of time to find the right candidate. 
-
-At Crewmeister we aim to write excellent software and are convinced that this requires a high level of passion for and 
-attention to topics such as software design and principles, best practices and clean code. We take pride in the fact
-that the code we produce is extensible, testable, maintainable and runs fast.  
-
-At the same time, we always try to improve the effectiveness of our evaluation and improve the candidate journey
-throughout the process. Our aim is that our hiring process is mutually inspiring and feels like a gain for
-both parties regardless of the outcome. If you feel to give us feedback on that, please don't hesitate to do so. 
-
 ## The Challenge
 
 Your task is to create a foreign exchange rate service as SpringBoot-based microservice. 
